@@ -1,3 +1,8 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 I love three things in this world.
+the sun,
+the moon and you.
+The sun for the day,
+the moon for the night,
+and you forever.
